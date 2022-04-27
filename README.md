@@ -13,6 +13,10 @@ npm run serve
 ### Compiles and minifies for production
 ```
 npm run build
+
+cd dist
+
+npm i -g http-server ### Instalar http-server para simular o deploy
 ```
 
 ### Lints and fixes files
